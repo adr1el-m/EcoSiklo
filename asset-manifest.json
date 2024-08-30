@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecosiklo/static/css/main.9aa9a98a.css",
+    "main.js": "/ecosiklo/static/js/main.99003e85.js",
+    "static/js/453.778cf109.chunk.js": "/ecosiklo/static/js/453.778cf109.chunk.js",
+    "static/media/home-bg.jpg": "/ecosiklo/static/media/home-bg.a4921088b77cd357054d.jpg",
+    "static/media/KenchieBaylon.jpg": "/ecosiklo/static/media/KenchieBaylon.ff69f2462647f0fa473f.jpg",
+    "static/media/McHenrySarcia.jpg": "/ecosiklo/static/media/McHenrySarcia.20fac0c371fb4bed15c6.jpg",
+    "static/media/SeanRussel.jpg": "/ecosiklo/static/media/SeanRussel.9480003caa3391aa0327.jpg",
+    "static/media/AdrielMagalona.jpg": "/ecosiklo/static/media/AdrielMagalona.1a6596e415f5d318fff7.jpg",
+    "static/media/JermaineFalcutila.jpg": "/ecosiklo/static/media/JermaineFalcutila.fff5440138c0e1d92b9f.jpg",
+    "index.html": "/ecosiklo/index.html",
+    "static/media/logo.svg": "/ecosiklo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.9aa9a98a.css.map": "/ecosiklo/static/css/main.9aa9a98a.css.map",
+    "main.99003e85.js.map": "/ecosiklo/static/js/main.99003e85.js.map",
+    "453.778cf109.chunk.js.map": "/ecosiklo/static/js/453.778cf109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa9a98a.css",
+    "static/js/main.99003e85.js"
+  ]
+}
